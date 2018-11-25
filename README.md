@@ -6,7 +6,10 @@ Get Set Push Stream value on Firebase via ESP32. the function compatible with [f
 This list device support and tested then worked.
 
  * NodeMCU-32S
- 
+
+## Needs
+ * [ArduinoJson V5.13.3](https://github.com/bblanchon/ArduinoJson/releases/tag/v5.13.3)
+
 ## Features
 
 ### Get
